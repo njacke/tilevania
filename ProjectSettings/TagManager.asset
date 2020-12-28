@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Climbing
+  - Player
+  - Background
+  - Enemy
+  - Hazards
+  - Interactables
   - 
   - 
   - 
@@ -43,6 +43,18 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3026092793
+    locked: 0
+  - name: Climbing
+    uniqueID: 2421671269
+    locked: 0
+  - name: Enemy
+    uniqueID: 3052201639
+    locked: 0
+  - name: Hazards
+    uniqueID: 2844577093
+    locked: 0
+  - name: Interactables
+    uniqueID: 1665126377
     locked: 0
   - name: Player
     uniqueID: 3680495453

@@ -1,55 +1,43 @@
 fileFormatVersion: 2
-guid: 92d65187ffef86649b73deebae2bacba
+guid: 1ceac46247c93e840a5d9a60f4a97ae7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6414447125379547148
-    second: SPA_Background brown tint_0
+      213: 6103357899659086822
+    second: _PA_Coins_0
   - first:
-      213: -2276109588449258574
-    second: SPA_Background brown tint_1
+      213: 1111845313139253487
+    second: _PA_Coins_1
   - first:
-      213: 7622431064557552515
-    second: SPA_Background brown tint_2
+      213: -3691449811783524638
+    second: _PA_Coins_2
   - first:
-      213: 289114549585270027
-    second: SPA_Background brown tint_3
+      213: 3207539824822729412
+    second: _PA_Coins_3
   - first:
-      213: -5862157076625757123
-    second: SPA_Background brown tint_4
+      213: 7987310416186849707
+    second: _PA_Coins_4
   - first:
-      213: 7565696428887314959
-    second: SPA_Background brown tint_5
+      213: 7784895870903303110
+    second: _PA_Coins_5
   - first:
-      213: 3104076937310148729
-    second: SPA_Background brown tint_6
+      213: 1410572017947579972
+    second: _PA_Coins_6
   - first:
-      213: 4777146490511550170
-    second: SPA_Background brown tint_7
+      213: 8300126759487114410
+    second: _PA_Coins_7
   - first:
-      213: 4021284656184010451
-    second: SPA_Background brown tint_8
+      213: -6312415918548822717
+    second: _PA_Coins_8
   - first:
-      213: -5428507737112726026
-    second: SPA_Background brown tint_9
+      213: 4624323865857289891
+    second: _PA_Coins_9
   - first:
-      213: 8721707918184771119
-    second: SPA_Background brown tint_10
+      213: -3066482971689499506
+    second: _PA_Coins_10
   - first:
-      213: 374688490947754656
-    second: SPA_Background brown tint_11
-  - first:
-      213: -1693060807349068911
-    second: SPA_Background brown tint_12
-  - first:
-      213: -568864715573125675
-    second: SPA_Background brown tint_13
-  - first:
-      213: 124453552786969483
-    second: SPA_Background brown tint_14
-  - first:
-      213: -3357515910591759238
-    second: SPA_Background brown tint_15
+      213: 2391643969444988211
+    second: _PA_Coins_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,7 +82,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 31
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -149,11 +137,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SPA_Background brown tint_0
+      name: _PA_Coins_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -163,18 +151,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fff93d135e4bf6a0800000000000000
-      internalID: -6414447125379547148
+      spriteID: 6eb014a3cab73b450800000000000000
+      internalID: 6103357899659086822
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_1
+      name: _PA_Coins_1
       rect:
         serializedVersion: 2
         x: 38
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -184,18 +172,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b31f9e7362a960e0800000000000000
-      internalID: -2276109588449258574
+      spriteID: fe029d6eb611e6f00800000000000000
+      internalID: 1111845313139253487
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_2
+      name: _PA_Coins_2
       rect:
         serializedVersion: 2
         x: 76
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -205,18 +193,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3830bd7faa058c960800000000000000
-      internalID: 7622431064557552515
+      spriteID: 2eed57e44f555ccc0800000000000000
+      internalID: -3691449811783524638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_3
+      name: _PA_Coins_3
       rect:
         serializedVersion: 2
         x: 114
-        y: 116
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -226,18 +214,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b055d6ba624230400800000000000000
-      internalID: 289114549585270027
+      spriteID: 4ca3a75f978738c20800000000000000
+      internalID: 3207539824822729412
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_4
+      name: _PA_Coins_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 78
+        x: 152
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -247,18 +235,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3ced26a23f65aea0800000000000000
-      internalID: -5862157076625757123
+      spriteID: ba938934180a8de60800000000000000
+      internalID: 7987310416186849707
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_5
+      name: _PA_Coins_5
       rect:
         serializedVersion: 2
-        x: 38
-        y: 78
+        x: 190
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -268,18 +256,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f02154a31d0cef860800000000000000
-      internalID: 7565696428887314959
+      spriteID: 6cbb8966c81890c60800000000000000
+      internalID: 7784895870903303110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_6
+      name: _PA_Coins_6
       rect:
         serializedVersion: 2
-        x: 76
-        y: 78
+        x: 228
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -289,18 +277,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9789ad34785e31b20800000000000000
-      internalID: 3104076937310148729
+      spriteID: 4461fdbd6cb539310800000000000000
+      internalID: 1410572017947579972
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_7
+      name: _PA_Coins_7
       rect:
         serializedVersion: 2
-        x: 114
-        y: 78
+        x: 266
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -310,18 +298,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad6e1f63c65db4240800000000000000
-      internalID: 4777146490511550170
+      spriteID: aac81f1df49ff2370800000000000000
+      internalID: 8300126759487114410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_8
+      name: _PA_Coins_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 40
+        x: 304
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -331,18 +319,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3d6a390d6197ec730800000000000000
-      internalID: 4021284656184010451
+      spriteID: 345506caa2bc568a0800000000000000
+      internalID: -6312415918548822717
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_9
+      name: _PA_Coins_9
       rect:
         serializedVersion: 2
-        x: 38
-        y: 40
+        x: 342
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -352,18 +340,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f5bfec79f01aa4b0800000000000000
-      internalID: -5428507737112726026
+      spriteID: 3aee8c62e06ec2040800000000000000
+      internalID: 4624323865857289891
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_10
+      name: _PA_Coins_10
       rect:
         serializedVersion: 2
-        x: 76
-        y: 40
+        x: 380
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -373,18 +361,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2e6d1a542bb90970800000000000000
-      internalID: 8721707918184771119
+      spriteID: e84c9a2fbf9a175d0800000000000000
+      internalID: -3066482971689499506
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPA_Background brown tint_11
+      name: _PA_Coins_11
       rect:
         serializedVersion: 2
-        x: 114
-        y: 40
+        x: 418
+        y: 0
         width: 32
         height: 32
       alignment: 0
@@ -394,92 +382,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0aa3e548239233500800000000000000
-      internalID: 374688490947754656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_12
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19b92da7a2a0188e0800000000000000
-      internalID: -1693060807349068911
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_13
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5dd920f1e8cfa18f0800000000000000
-      internalID: -568864715573125675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_14
-      rect:
-        serializedVersion: 2
-        x: 76
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8317ecc8d52ab100800000000000000
-      internalID: 124453552786969483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SPA_Background brown tint_15
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 2
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7cb4757115b761d0800000000000000
-      internalID: -3357515910591759238
+      spriteID: 33549fbc483d03120800000000000000
+      internalID: 2391643969444988211
       vertices: []
       indices: 
       edges: []
